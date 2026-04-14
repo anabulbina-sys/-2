@@ -13,3 +13,9 @@
  2 3
  2 4
  Результат: <img width="71" height="139" alt="image" src="https://github.com/user-attachments/assets/6aab212f-980d-40bf-8561-8764d5aa2463" />
+
+
+Ссылки на используемые материалы
+Двоичная запись числа — основы: https://ru.wikipedia.org/wiki/Двоичная_система_счисления
+Степени двойки в двоичной системе — объяснение: https://ege-study.ru/ru/ege/materialy/informatika/dvoichnaya-sistema-schisleniya/
+Проверка простоты числа онлайн (для самопроверки): https://planetcalc.ru/8838/
